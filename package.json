@@ -1,0 +1,18 @@
+{
+    "name": "nativeframework",
+    "version": "0.0.1",
+    "devkit": {
+        "clientPaths": {
+            "nativeframework": "js"
+        },
+        "extensions": {
+            "android": "android",
+			"ios": "ios"
+        }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/incredibl3/nativeframework.git"
+    }
+}
+    

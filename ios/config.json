@@ -1,0 +1,20 @@
+{
+    "code": [
+		"Admob.h",
+		"Admob.mm"
+	],
+    "frameworks": [
+        "./GoogleMobileAds.framework",
+	"AdSupport",
+	"AudioToolbox",
+	"AVFoundation",
+	"CoreGraphics",
+	"CoreMedia",
+	"CoreTelephony",
+	"EventKit",
+	"EventKitUI",
+	"MessageUI",
+	"StoreKit",
+	"SystemConfiguration"
+	]
+}

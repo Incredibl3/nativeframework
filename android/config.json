@@ -1,0 +1,17 @@
+{
+    "copyFiles": [
+    "src/NativeDialog/NativeDialogPlugin.java",
+    "src/Parse/ParsePlugin.java",
+    "src/Admob/AdmobPlugin.java",
+    "res/values/parse_strings.xml"
+  ],
+    "libraries": [
+  ],
+    "jars": [
+      "libs/google-play-services.jar",
+      "libs/bolts-tasks-1.3.0.jar",
+      "libs/parse-android-1.11.0.jar"
+  ],
+    "injectionXML": "manifest.xml",
+    "injectionXSL": "manifest.xsl"
+}
