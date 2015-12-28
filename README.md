@@ -13,7 +13,7 @@ Check out [the demo application](https://bitbucket.org/incredibl3/braintuner.git
 Install the module using using the standard devkit install process:
 
 ~~~
-devkit install https://bitbucket.org/incredibl3/nativeframework#v0.0.1
+devkit install https://github.com/Incredibl3/nativeframework.git#v0.0.1
 ~~~
 
 ## Usage
